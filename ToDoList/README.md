@@ -31,11 +31,14 @@ It allows you to add, toggle, delete, and clear completed tasks with local stora
 
 ---
 
+---
+
 ## 📂 Project Structure
 
-src/
--│── components/
--│ └── Todo.jsx # Main To-Do list component
--│── App.jsx # Root component
--│── main.jsx # Entry point
+- src/
+- │── components/
+- │ └── Todo.jsx # Main To-Do list component
+- │── App.jsx # Root component
+- │── main.jsx # Entry point
 
+---
