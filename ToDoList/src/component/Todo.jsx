@@ -37,7 +37,7 @@ const Todo = () => {
 
   return (
     <div className="min-h-screen flex justify-center items-center bg-gradient-to-r from-purple-500 via-pink-500 to-red-500 p-4">
-      <div className="shadow-xl rounded-lg px-8 py-6 w-full max-w-md bg-gradient-to-r from-gray-900 to-gray-700 text-center">
+      <div className="shadow-xl rounded-lg px-8 py-12 w-full max-w-md bg-gradient-to-r from-gray-900 to-gray-700 text-center">
         <h1 className="text-3xl font-bold text-white mb-4">To-Do List</h1>
 
         {/* Input Form */}
